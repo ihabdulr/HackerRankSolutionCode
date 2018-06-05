@@ -19,7 +19,7 @@ Output Format
 
 Print all  integers in  in reverse order as a single line of space-separated integers.
 
-
+SCORE: 10/10 possible points
 
 */
 
