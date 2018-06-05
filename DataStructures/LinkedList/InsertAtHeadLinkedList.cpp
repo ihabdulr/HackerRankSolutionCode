@@ -24,3 +24,4 @@ Node* Insert(Node *head,int data)
     
     return newNode;
 }
+ 
